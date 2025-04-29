@@ -42,7 +42,7 @@ PS: Il est considéré comme bonne pratique de mettre un environnement virtuel. 
 1. **Clonez le dépôt :**
 
 ```bash
-git clone https://github.com/mamour-dx/NoteMaster.git
+git clone https://github.com/DonArhouna/NoteMasetr
 cd NoteMaster
 ```
 
@@ -136,8 +136,8 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 ## 📫 Contact
 
-- Email: [me@mxr.codes](mailto:me@mxr.codes)
-- YouTube : [@mxr_codes](https://youtube.com/@mxr_codes)
+- Email: [Don Arhouna](mailto:rhonekane@gmail.com)
+- Depot git : [DonArhouna](https://github.com/DonArhouna/NoteMasetr)
 
 ---
 

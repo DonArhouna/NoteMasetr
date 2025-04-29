@@ -397,7 +397,7 @@ elif menu == "Docs":
 
         ### 🚀 Besoin d'aide ou d'une nouvelle fonctionnalité ?
         Si vous avez un problème ou souhaitez suggérer une amélioration, ouvrez un **issue** sur GitHub :
-        👉 [Ouvrir un issue](https://github.com/mamour-dx/NoteMaster/issues)
+        👉 [Ouvrir un issue](https://github.com/DonArhouna/NoteMasetr)
         Trop compliqué ? Envoyez-moi un email : [DonArhouna](mailto:rhonekane@gmail.com)
         """
     )
@@ -415,8 +415,10 @@ st.markdown("---")
 
 st.markdown("### 🌟 Ressources utiles :")
 # Align the buttons horizontally
-col1, col2 = st.columns(2)
+col1, col2, col3 = st.columns(3)
 with col1:
     st.link_button("📚 W3schools", url="https://www.w3schools.com/")
 with col2:
     st.link_button("📚 Open Classrooms", url="https://openclassrooms.com/fr/")
+with col3:
+    st.link_button("📚 Depot git", url="https://github.com/DonArhouna/NoteMasetr")
